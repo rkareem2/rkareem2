@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rkareem2
-- 👀 I’m interested in Software Engineering , computer science and everything computer
+- 👀 I’m interested in Software Engineering , AI and Machine Learning, computer science and everything computer
 - 🌱 I’m currently studying computer science
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
